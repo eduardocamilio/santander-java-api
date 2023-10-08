@@ -1,0 +1,62 @@
+{
+  "id": 1,
+  "name": "Eduardo",
+  "account": {
+    "id": 1,
+    "number": "0000000-0",
+    "agency": "00001",
+    "balance": 100000000.31,
+    "limit": 1000000
+  },
+  "card": {
+    "id": 1,
+    "number": "xxxx xxxx xxxx 0031",
+    "limit": 1000000
+  },
+  "features": [
+    {
+      "id": 1,
+      "icon": "URL",
+      "description": "Feature"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "icon": "URL",
+      "description": "News"
+    }
+  ]
+}
+
+
+{
+  "id": number,
+  "name": "string",
+  "account": {
+    "id": 0,
+    "number": "0000000-0",
+    "agency": "00000",
+    "balance": 100000000.28,
+    "limit": 1000000
+  },
+  "card": {
+    "id": 0,
+    "number": "xxxx xxxx xxxx 0000",
+    "limit": 1000000
+  },
+  "features": [
+    {
+      "id": 0,
+      "icon": "URL",
+      "description": "Feature"
+    }
+  ],
+  "news": [
+    {
+      "id": 0,
+      "icon": "URL",
+      "description": "News"
+    }
+  ]
+}
